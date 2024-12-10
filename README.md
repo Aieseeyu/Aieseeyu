@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting my degree.
+- 🔭 I’m currently working on getting the best degree I can.
 - 🌱 I’m learning PHP, Javascript, etc...
 - 🤔 I’m looking for help with getting better.
 - 💬 Ask me about anything.
